@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: c505ec3b11d4a49318b7a0b190b7c019
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheetvolt_run_0
+    21300002: spritesheetvolt_run_1
+    21300004: spritesheetvolt_run_2
+    21300006: spritesheetvolt_run_3
+    21300008: spritesheetvolt_run_4
+    21300010: spritesheetvolt_run_5
+    21300012: spritesheetvolt_run_6
+    21300014: spritesheetvolt_run_7
+    21300016: spritesheetvolt_run_8
+    21300018: spritesheetvolt_run_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheetvolt_run_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 438
+        width: 209
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetvolt_run_1
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 415
+        width: 229
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetvolt_run_2
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 404
+        width: 234
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetvolt_run_3
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 396
+        width: 197
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetvolt_run_4
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 386
+        width: 204
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetvolt_run_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 73
+        width: 206
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetvolt_run_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 66
+        width: 235
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetvolt_run_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 70
+        width: 242
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetvolt_run_8
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 50
+        width: 216
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spritesheetvolt_run_9
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 62
+        width: 208
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
