@@ -7,13 +7,13 @@ It load and unload sprites from memeory with animation clips at runtime, that ve
 There's two simple methods:
 
 - for loading animation:
-``` ruby
+``` csharp
 animationLoadManager.LoadAnimation(animationClipName, boolName);
 ```
 	
 - for unloading animation from memory when animation is done
 	
-```ruby
+```csharp
 animationLoadManager.UnloadPreviousLoadAnimation();
 ```
 
