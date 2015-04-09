@@ -2,9 +2,9 @@
  Unity3D example project
 
 ## This example will help you with optimization memory usage in Unity3D engine.
-It load and unload sprites from memeory with animation clips at runtime, that very helpful!
+AnimationLoadManager script load and unload sprites from memeory with animation clips at runtime, that very helpful!
 
-There's two simple methods:
+There's two simple public methods:
 
 - for loading animation:
 ``` csharp
