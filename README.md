@@ -1,4 +1,4 @@
-# DynamicallyLoadingAnimation
+# Dynamically Loading Animation
  Unity3D example project
 
 ## This example will help you with optimization memory usage in Unity3D engine.
