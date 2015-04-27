@@ -17,4 +17,4 @@ animationLoadManager.LoadAnimation(animationClipName, boolName);
 animationLoadManager.UnloadPreviousLoadAnimation();
 ```
 
-###if you have any question feel free to contact me @nonehill_
+###if you have any question feel free to contact me https://twitter.com/nonehill_
