@@ -2,7 +2,7 @@
  Unity3D example project
 
 ## This example will help you with optimization memory usage in Unity3D engine.
-AnimationLoadManager script load and unload sprites from memeory with animation clips at runtime, that very helpful!
+AnimationLoadManager script load and unload sprites from memory with animation clips at runtime, that very helpful!
 
 There's two simple public methods:
 
@@ -17,4 +17,6 @@ animationLoadManager.LoadAnimation(animationClipName, boolName);
 animationLoadManager.UnloadPreviousLoadAnimation();
 ```
 
-###if you have any question feel free to contact me https://twitter.com/s_tsarikovskiy
+## Contact
+
+if you have any question feel free to contact me https://twitter.com/s_tsarikovskiy
